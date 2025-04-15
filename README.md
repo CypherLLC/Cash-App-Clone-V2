@@ -1,8 +1,5 @@
 > [!NOTE]  
 > This is a very outdated version of our clone. We Recommend using the V5 CA Clone as it has all the animations and it is 1:1
-# CA Clone V2
-
-Experience the look and feel of the original Cash App interface with this V2 clone, faithfully recreated for educational purposes. As the official app has evolved significantly, this version offers developers and learners a chance to explore the earlier UI design and mobile development techniques in a hands-on way.
 
 | Page | V2 | V5 |
 | ------------- | ------------- | ------------- |
@@ -11,10 +8,15 @@ Experience the look and feel of the original Cash App interface with this V2 clo
 | Activity Page  | <img src="IMG_7929.PNG" alt="App Screenshot" height="300"/>  | <img src="IMG_7932.PNG" alt="App Screenshot" height="300"/>  |
 | Card Page  | ❌ Not Included   | <img src="IMG_7934.PNG" alt="App Screenshot" height="300"/>  |
 | Discover Page  | ❌ Not Included  | <img src="IMG_7933.PNG" alt="App Screenshot" height="300"/>  |
-| Profile Page  | ❌ Not Included  | <img src="IMG_7933.PNG" alt="App Screenshot" height="300"/>  |
+| Profile Page  | ❌ Not Included  | <img src="IMG_0D4E7DCDA1EE-1.jpeg" alt="App Screenshot" height="300"/>  |
 | Mode Menu  | ❌ Not Included  | ✅ Included |
 | Send/Receive  | ❌ Not Included  | ✅ Included  |
 | Linkables | ❌ Not Included  | ✅ Included  |
+| Other Features | ❌ Not Included  | ✅ +10 More  |
+
+# CA Clone V2
+
+Experience the look and feel of the original Cash App interface with this V2 clone, faithfully recreated for educational purposes. As the official app has evolved significantly, this version offers developers and learners a chance to explore the earlier UI design and mobile development techniques in a hands-on way.
 
 ## Installation
 
