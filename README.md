@@ -6,9 +6,15 @@ Experience the look and feel of the original Cash App interface with this V2 clo
 
 | Page | V2 | V5 |
 | ------------- | ------------- | ------------- |
-| Home Page  | <img src="IMG_7927.PNG" alt="App Screenshot" height="300"/> | Content Cell  |
-| Money Page  | <img src="IMG_7928.PNG" alt="App Screenshot" height="300"/>  | Content Cell  |
-| Activity Page  | <img src="IMG_7929.PNG" alt="App Screenshot" height="300"/>  | Content Cell  |
+| Home Page  | <img src="IMG_7927.PNG" alt="App Screenshot" height="300"/> | <img src="IMG_7930.PNG" alt="App Screenshot" height="300"/>  |
+| Money Page  | <img src="IMG_7928.PNG" alt="App Screenshot" height="300"/>  | <img src="IMG_7931.PNG" alt="App Screenshot" height="300"/>  |
+| Activity Page  | <img src="IMG_7929.PNG" alt="App Screenshot" height="300"/>  | <img src="IMG_7932.PNG" alt="App Screenshot" height="300"/>  |
+| Card Page  | ❌ Not Included   | <img src="IMG_7934.PNG" alt="App Screenshot" height="300"/>  |
+| Discover Page  | ❌ Not Included  | <img src="IMG_7933.PNG" alt="App Screenshot" height="300"/>  |
+| Profile Page  | ❌ Not Included  | <img src="IMG_7933.PNG" alt="App Screenshot" height="300"/>  |
+| Mode Menu  | ❌ Not Included  | ✅ Included |
+| Send/Receive  | ❌ Not Included  | ✅ Included  |
+| Linkables | ❌ Not Included  | ✅ Included  |
 
 ## Installation
 
