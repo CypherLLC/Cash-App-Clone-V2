@@ -6,8 +6,9 @@ Experience the look and feel of the original Cash App interface with this V2 clo
 
 | Page | V2 | V5 |
 | ------------- | ------------- | ------------- |
-| Home Page  | Content Cell  | Content Cell  |
-| Money Page  | Content Cell  | Content Cell  |
+| Home Page  | <img src="IMG_7927.PNG" alt="App Screenshot" height="300"/> | Content Cell  |
+| Money Page  | <img src="IMG_7928.PNG" alt="App Screenshot" height="300"/>  | Content Cell  |
+| Activity Page  | <img src="IMG_7929.PNG" alt="App Screenshot" height="300"/>  | Content Cell  |
 
 ## Installation
 
