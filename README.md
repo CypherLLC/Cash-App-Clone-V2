@@ -1,5 +1,5 @@
 > [!NOTE]  
-> This is a very outdated version of our clones. We Recommend using the Clone V5 as it has all the animations and it is 1:1
+> This is a very outdated version of our clone. We Recommend using the V5 CA Clone as it has all the animations and it is 1:1
 # CA Clone V2
 
 Experience the look and feel of the original Cash App interface with this V2 clone, faithfully recreated for educational purposes. As the official app has evolved significantly, this version offers developers and learners a chance to explore the earlier UI design and mobile development techniques in a hands-on way.
