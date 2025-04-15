@@ -4,6 +4,11 @@
 
 Experience the look and feel of the original Cash App interface with this V2 clone, faithfully recreated for educational purposes. As the official app has evolved significantly, this version offers developers and learners a chance to explore the earlier UI design and mobile development techniques in a hands-on way.
 
+| Page | V2 | V5 |
+| ------------- | ------------- | ------------- |
+| Home Page  | Content Cell  | Content Cell  |
+| Money Page  | Content Cell  | Content Cell  |
+
 ## Installation
 
 ### Windows & macOS:
